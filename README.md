@@ -5,7 +5,7 @@ The project is a simple challenge to test your skills in building APIs using the
 ### Submission
 
 - [ ] Read the description, requirements, and the others instructions
-- [ ] Fork the repository at [https://github.com/fuerzastudio/backend-challenge](https://github.com/fuerzastudio/backend-challenge)
+- [ ] Clone the repository
 - [ ] Submit your challenge as a pull request
 
 ### What to do
